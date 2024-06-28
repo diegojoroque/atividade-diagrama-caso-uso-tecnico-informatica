@@ -1,4 +1,5 @@
-# Atividade Diagrama de Caso de Uso - 18/10/2021
+# Atividade Diagrama de Caso de Uso
+
 Diagramas de caso de uso são utilizados para descrever as funções de um sistema que está sendo projetado.
 Para Ivar Jacobson, esse tipo de ferramenta narra uma sequência de eventos de um ator (usuário) do sistema.
 Esses diagramas podem ser utilizadas para o levamento de requisitos funcionais do sistema.
